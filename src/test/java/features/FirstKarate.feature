@@ -12,7 +12,7 @@ Feature: Welcome to Karate
   * print 2+2
     # ---> this one is doing arithmetic operation
 
-  @wip
+
   Scenario: variable
     * def name = 'Mike'
     # single or double quotation does not matter
